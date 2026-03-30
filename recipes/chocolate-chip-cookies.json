@@ -1,0 +1,109 @@
+{
+  "recipeId": "11111111-1111-1111-1111-111111111111",
+  "slug": "chocolate-chip-cookies",
+  "recipeTitle": "Chocolate Chip Cookies",
+  "description": "Classic chewy chocolate chip cookies with crisp edges.",
+  "servings": 24,
+  "prepTimeMinutes": 20,
+  "totalTimeMinutes": 32,
+  "ingredients": [
+    {
+      "item": "Unsalted butter",
+      "amount": 1,
+      "unit": "cup",
+      "notes": "Softened"
+    },
+    {
+      "item": "Brown sugar",
+      "amount": 1,
+      "unit": "cup"
+    },
+    {
+      "item": "Granulated sugar",
+      "amount": 0.5,
+      "unit": "cup"
+    },
+    {
+      "item": "Eggs",
+      "amount": 2,
+      "unit": "large"
+    },
+    {
+      "item": "Vanilla extract",
+      "amount": 2,
+      "unit": "teaspoons"
+    },
+    {
+      "item": "All-purpose flour",
+      "amount": 2.25,
+      "unit": "cups"
+    },
+    {
+      "item": "Baking soda",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "Salt",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "Chocolate chips",
+      "amount": 2,
+      "unit": "cups"
+    }
+  ],
+  "directions": [
+    {
+      "stepNumber": 1,
+      "instruction": "Heat the oven to 375°F."
+    },
+    {
+      "stepNumber": 2,
+      "instruction": "Cream butter and sugars until light and fluffy.",
+      "optionalDurationMinutes": 3
+    },
+    {
+      "stepNumber": 3,
+      "instruction": "Beat in eggs and vanilla until smooth.",
+      "optionalDurationMinutes": 2
+    },
+    {
+      "stepNumber": 4,
+      "instruction": "Mix in flour, baking soda, and salt until just combined.",
+      "optionalDurationMinutes": 2
+    },
+    {
+      "stepNumber": 5,
+      "instruction": "Fold in chocolate chips.",
+      "optionalDurationMinutes": 1
+    },
+    {
+      "stepNumber": 6,
+      "instruction": "Scoop onto lined baking sheets and bake until golden at the edges.",
+      "optionalDurationMinutes": 10
+    },
+    {
+      "stepNumber": 7,
+      "instruction": "Cool on the pan briefly, then transfer to a rack.",
+      "optionalDurationMinutes": 4
+    }
+  ],
+  "tools": [
+    "Stand mixer",
+    "Mixing bowl",
+    "Sheet pan",
+    "Cooling rack"
+  ],
+  "tags": [
+    "dessert",
+    "cookies",
+    "baking"
+  ],
+  "version": 1,
+  "createdAt": "2026-03-29T00:00:00.000Z",
+  "updatedAt": "2026-03-29T00:00:00.000Z",
+  "versionNote": "Initial seed recipe",
+  "notes": "Chilling the dough for 30 minutes gives a thicker cookie."
+}
