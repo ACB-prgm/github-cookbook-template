@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "app": "github-cookbook",
+  "recipesPath": "recipes",
+  "archivePath": "archive",
+  "defaultBranch": "main"
+}
